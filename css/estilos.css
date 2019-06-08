@@ -1,0 +1,11 @@
+/*IMAGEN EN INICIO*/
+.barra {
+    background: url(../img/mexico_1.jpg) no-repeat center;
+    background-size: cover;
+    min-height: 100vh;
+}
+/*OPACIDAD NAVBAR*/
+.barra .navbar {
+    background-color: rgb(57,59,57) !important;
+    opacity: 0.9;
+}
