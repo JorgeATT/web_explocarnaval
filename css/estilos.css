@@ -6,6 +6,25 @@
 }
 /*OPACIDAD NAVBAR*/
 .barra .navbar {
-    background-color: rgb(57,59,57) !important;
+    background-color: rgb(57, 59, 57) !important;
     opacity: 0.9;
+}
+.barra .navbar .nav-link{
+    color: #ffffff;
+}
+.search {
+    font-size: 12px;
+}
+.logo{
+
+    padding-top: 1%;
+    padding-left: 5%;
+}
+.vl {
+    border-left: 6px solid #38bbb4;
+    height: 90%;
+    position: absolute;
+    left:100%;
+    margin-left: -3px;
+    top: 0;
 }
