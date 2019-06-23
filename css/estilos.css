@@ -1,6 +1,69 @@
+.vl {
+    border-left: 6px solid #38bbb4;
+    height: 90%;
+    position: absolute;
+    left:100%;
+    margin-left: -3px;
+    top: 0;
+}
+/*botones de redes sociales*/
+.sticky-container{
+    padding:0px;
+    margin:0px;
+    position:fixed;
+    right: 0%;
+    top:60%;
+    width:10%;
+    z-index: 1100;
+}
+.sticky li{
+    list-style-type:none;
+    color:#efefef;
+    height:70px;
+    padding:0px;
+    margin:0px 0px 1px 0px;
+    -webkit-transition:all 0.25s ease-in-out;
+    -moz-transition:all 0.25s ease-in-out;
+    -o-transition:all 0.25s ease-in-out;
+    transition:all 0.25s ease-in-out;
+    cursor:pointer;
+}
+
+/*mover la imagen a la izquierda cuando el cursor este en el
+.sticky li:hover{
+    margin-left:-115px;
+}*/
+
+.sticky li img{
+    float:left;
+    margin:5px 4px;
+    margin-right:5px;
+}
+.sticky li p{
+    padding-top:5px;
+    margin:0px;
+    line-height:16px;
+    font-size:11px;
+}
+.sticky li p a{
+    text-decoration:none;
+    color:#2C3539;
+}
+.sticky li p a:hover{
+    text-decoration:underline;
+
+    /* zoom de los iconos*/
+}
+.zoom{
+    transition: transform .5s;
+}
+.zoom:hover {
+    transform: scale(1.5);
+}  /* fin del zoom de los iconos*/
+
+
 /*IMAGEN EN INICIO*/
 .barra {
-    background: url(../img/mexico_1.jpg) no-repeat center;
     background-size: cover;
     min-height: 100vh;
 }
@@ -16,15 +79,36 @@
     font-size: 12px;
 }
 .logo{
-
     padding-top: 1%;
-    padding-left: 5%;
+    padding-left: 4%;
 }
-.vl {
-    border-left: 6px solid #38bbb4;
-    height: 90%;
-    position: absolute;
-    left:100%;
-    margin-left: -3px;
-    top: 0;
+.bannerContainer { position:relative; }
+.carousel { position: absolute; top:0; right: 0; left:0; }
+.navbar { position:absolute; top:0; left: 0;  background:#fff; width:93vh; }
+
+/*fondo de imagenes*/
+.fondo{
+    background: #F1F1F1 ;
+    padding-top: 2%;
+}
+
+/*texto debajo de la imagen*/
+figure {
+    display: flex;
+    flex-flow: column;
+    padding: 0;
+    max-width: 320px;
+    margin: auto;
+}
+
+.imagen {
+    max-width: 420px;
+    max-height: 215px;
+}
+
+figcaption {
+    color: #222;
+    font: italic smaller sans-serif;
+    padding: 3px;
+    text-align: center;
 }

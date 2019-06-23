@@ -2,15 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="192ffb1e-f71d-4c81-9125-861610d076ac" name="Default Changelist" comment="">
-<<<<<<< HEAD
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-=======
->>>>>>> 6ea2bf30bae8385c3dc859dfdaaab5a9762d2b9c
+      <change afterPath="$PROJECT_DIR$/../Explocarnaval 1/.idea/Explocarnaval 1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Explocarnaval 1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Explocarnaval 1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Explocarnaval 1/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICONOS PNG/MATERIAL WEB-01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICONOS PNG/MATERIAL WEB-02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICONOS PNG/MATERIAL WEB-03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICONOS PNG/MATERIAL WEB-04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICONOS PNG/MATERIAL WEB-05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICONOS PNG/MATERIAL WEB-06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICONOS PNG/MATERIAL WEB-07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICONOS PNG/MATERIAL WEB-08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICONOS PNG/MATERIAL WEB-09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICONOS PNG/MATERIAL WEB-10.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/css/estilos.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/estilos.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/explocarnaval.html" beforeDir="false" afterPath="$PROJECT_DIR$/explocarnaval.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/img/1. Mexico.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/10 EUROPA.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/11 INDIA.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/12 TURQUIA.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/13 JAPON.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/14 DUBAI.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/15 TURQUIA GRECIA.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/16 SUDAFRICA.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/17 TIERRA SANTA.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/img/2 MEXICO.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/3 EJE CAFETERO Y CALI.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/4 EJE CAFETERO Y CALI.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/5 CRUCEROS.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/6 CRUCEROS.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/7 GALAPAGOS.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/8 GALAPAGOS.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/9 EUROPA.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_explocarnaval" beforeDir="false" afterPath="$PROJECT_DIR$/../web_explocarnaval" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,49 +44,34 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FavoritesManager">
-    <favorites_list name="web_explocarnaval" />
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
   </component>
   <component name="FileEditorManager">
-<<<<<<< HEAD
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/explocarnaval.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="18" column="56" selection-start-line="18" selection-start-column="56" selection-end-line="18" selection-end-column="56" />
-=======
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/explocarnaval.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1530">
-              <caret line="117" selection-start-line="117" selection-end-line="117" />
->>>>>>> 6ea2bf30bae8385c3dc859dfdaaab5a9762d2b9c
+            <state relative-caret-position="670">
+              <caret line="62" column="36" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="62" selection-end-column="36" />
               <folding>
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#3;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#4;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#figure#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#figure#1;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#figure#2;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#figure#0;n#div#1;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#figure#1;n#div#1;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-<<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/estilos.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="18" selection-start-column="18" selection-end-column="18" />
-=======
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css/estilos.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
->>>>>>> 6ea2bf30bae8385c3dc859dfdaaab5a9762d2b9c
+            <state relative-caret-position="20">
+              <caret line="58" column="1" lean-forward="true" selection-start-line="58" selection-start-column="1" selection-end-line="58" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -71,35 +82,30 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/index.html.txt" />
+        <option value="$PROJECT_DIR$/js/js.js" />
+        <option value="$PROJECT_DIR$/../web_explocarnaval/css/estilos.css" />
         <option value="$PROJECT_DIR$/css/estilos.css" />
         <option value="$PROJECT_DIR$/explocarnaval.html" />
-        <option value="$PROJECT_DIR$/css/estilos.css" />
       </list>
     </option>
   </component>
   <component name="PhpDebugGeneral" listening_started="true" />
-  <component name="ProjectFrameBounds" extendedState="6">
-<<<<<<< HEAD
-    <option name="x" value="-8" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-1288" />
     <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
-=======
-    <option name="x" value="11" />
-    <option name="y" value="-14" />
-    <option name="width" value="1294" />
-    <option name="height" value="876" />
->>>>>>> 6ea2bf30bae8385c3dc859dfdaaab5a9762d2b9c
+    <option name="width" value="1296" />
+    <option name="height" value="1000" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -112,22 +118,13 @@
         <subPane>
           <expand>
             <path>
-              <item name="web_explocarnaval" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web_explocarnaval" type="462c0819:PsiDirectoryNode" />
+              <item name="EXPLOCARNAVAL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EXPLOCARNAVAL" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="web_explocarnaval" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web_explocarnaval" type="462c0819:PsiDirectoryNode" />
+              <item name="EXPLOCARNAVAL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EXPLOCARNAVAL" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="web_explocarnaval" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web_explocarnaval" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="web_explocarnaval" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="bcb0276e:PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -137,8 +134,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Explocarnaval 1" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
@@ -155,6 +153,16 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="explocarnaval.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/EXPLOCARNAVAL/explocarnaval.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.explocarnaval.html" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -165,46 +173,35 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559875527851</updated>
-<<<<<<< HEAD
-      <workItem from="1559875529157" duration="7990000" />
-      <workItem from="1560026046936" duration="3449000" />
-=======
-      <workItem from="1559875529157" duration="15330000" />
->>>>>>> 6ea2bf30bae8385c3dc859dfdaaab5a9762d2b9c
+      <workItem from="1559875529157" duration="26346000" />
+      <workItem from="1560815076237" duration="7166000" />
+      <workItem from="1561079126991" duration="155000" />
+      <workItem from="1561079470634" duration="17471000" />
+      <workItem from="1561305438096" duration="202000" />
+      <workItem from="1561305935065" duration="1044000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-<<<<<<< HEAD
-    <option name="totallyTimeSpent" value="11439000" />
+    <option name="totallyTimeSpent" value="52384000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-1288" y="-8" width="1296" height="1000" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49918166" visible="true" weight="0.28668684" />
-=======
-    <option name="totallyTimeSpent" value="15330000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
->>>>>>> 6ea2bf30bae8385c3dc859dfdaaab5a9762d2b9c
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30582523" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" id="Favorites" order="2" sideWeight="0.5008183" side_tool="true" visible="true" weight="0.28668684" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3298731" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3289689" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -218,44 +215,59 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html.txt" />
-    <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/estilos.css">
+    <entry file="file://$PROJECT_DIR$/js/bootstrap.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="18" selection-start-column="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/explocarnaval.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="18" column="56" selection-start-line="18" selection-start-column="56" selection-end-line="18" selection-end-column="56" />
-=======
-    <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/explocarnaval.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1530">
-          <caret line="117" selection-start-line="117" selection-end-line="117" />
->>>>>>> 6ea2bf30bae8385c3dc859dfdaaab5a9762d2b9c
           <folding>
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#3;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#4;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/js/js.js" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/@explocarnaval.URL" />
+    <entry file="file://$PROJECT_DIR$/img/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../web_explocarnaval/explocarnaval.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="28" column="36" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../web_explocarnaval/css/estilos.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="1" lean-forward="true" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="4447" column="2" selection-start-line="4447" selection-start-column="2" selection-end-line="4447" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/estilos.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        <state relative-caret-position="20">
+          <caret line="58" column="1" lean-forward="true" selection-start-line="58" selection-start-column="1" selection-end-line="58" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/explocarnaval.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="670">
+          <caret line="62" column="36" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="62" selection-end-column="36" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#figure#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#figure#1;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#figure#2;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#figure#0;n#div#1;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#figure#1;n#div#1;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
