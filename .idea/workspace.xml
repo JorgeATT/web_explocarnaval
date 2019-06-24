@@ -2,10 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5801807d-adc0-434b-a88f-c906eb443a68" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/carousel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/js.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXPLOCARNAVAL/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EXPLOCARNAVAL/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXPLOCARNAVAL/ICONOS PNG/MATERIAL WEB-01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXPLOCARNAVAL/ICONOS PNG/MATERIAL WEB-02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXPLOCARNAVAL/ICONOS PNG/MATERIAL WEB-03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXPLOCARNAVAL/ICONOS PNG/MATERIAL WEB-04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXPLOCARNAVAL/ICONOS PNG/MATERIAL WEB-05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXPLOCARNAVAL/ICONOS PNG/MATERIAL WEB-06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXPLOCARNAVAL/ICONOS PNG/MATERIAL WEB-07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXPLOCARNAVAL/ICONOS PNG/MATERIAL WEB-08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXPLOCARNAVAL/ICONOS PNG/MATERIAL WEB-09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXPLOCARNAVAL/ICONOS PNG/MATERIAL WEB-10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXPLOCARNAVAL/css/estilos.css" beforeDir="false" afterPath="$PROJECT_DIR$/../EXPLOCARNAVAL/css/estilos.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXPLOCARNAVAL/explocarnaval.html" beforeDir="false" afterPath="$PROJECT_DIR$/../EXPLOCARNAVAL/explocarnaval.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXPLOCARNAVAL/img/1. Mexico.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXPLOCARNAVAL/img/10 EUROPA.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXPLOCARNAVAL/img/11 INDIA.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXPLOCARNAVAL/img/12 TURQUIA.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXPLOCARNAVAL/img/13 JAPON.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXPLOCARNAVAL/img/14 DUBAI.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXPLOCARNAVAL/img/15 TURQUIA GRECIA.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXPLOCARNAVAL/img/16 SUDAFRICA.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXPLOCARNAVAL/img/17 TIERRA SANTA.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXPLOCARNAVAL/img/2 MEXICO.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXPLOCARNAVAL/img/3 EJE CAFETERO Y CALI.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXPLOCARNAVAL/img/4 EJE CAFETERO Y CALI.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXPLOCARNAVAL/img/5 CRUCEROS.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXPLOCARNAVAL/img/6 CRUCEROS.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXPLOCARNAVAL/img/7 GALAPAGOS.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXPLOCARNAVAL/img/8 GALAPAGOS.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXPLOCARNAVAL/img/9 EUROPA.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_explocarnaval" beforeDir="false" afterPath="$PROJECT_DIR$/../web_explocarnaval" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,43 +41,20 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/explocarnaval1.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="274">
-              <caret line="198" column="20" selection-start-line="198" selection-start-column="20" selection-end-line="198" selection-end-column="26" />
-              <folding>
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#button#0;n#ul#0;n#div#0;n#nav#0;n#div#1;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#figure#0;n#div#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#figure#1;n#div#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#figure#2;n#div#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#figure#0;n#div#1;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#figure#1;n#div#1;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#10195#10201#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/estilos.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="30" column="10" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/styles.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+            <state relative-caret-position="613">
+              <caret line="271" column="21" lean-forward="true" selection-start-line="271" selection-start-column="21" selection-end-line="271" selection-end-column="21" />
               <folding>
-                <element signature="e#335#585#2" expanded="true" />
+                <element signature="e#4497#4747#2" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -58,23 +63,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="274">
-              <caret line="117" selection-start-line="117" selection-end-line="117" />
+            <state relative-caret-position="358">
+              <caret line="44" column="34" lean-forward="true" selection-start-line="55" selection-start-column="176" selection-end-line="55" selection-end-column="181" />
               <folding>
-                <element signature="n#style#0;n#img#0;n#button#0;n#ul#0;n#div#0;n#nav#0;n#header#0;n#html#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#main#0;n#html#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#9280#9286#0" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#ul#0;n#div#0;n#nav#0;n#div#1;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#button#0;n#ul#0;n#div#0;n#nav#0;n#div#1;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/carousel.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="32" column="37" lean-forward="true" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -84,8 +79,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -95,16 +90,16 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/css/carrousel.css" />
-        <option value="$PROJECT_DIR$/css/estilos.css" />
-        <option value="$PROJECT_DIR$/css/carousel.css" />
         <option value="$PROJECT_DIR$/explocarnaval1.html" />
-        <option value="$PROJECT_DIR$/css/styles.css" />
+        <option value="$PROJECT_DIR$/js/bootstrap.js" />
+        <option value="$PROJECT_DIR$/css/carousel.css" />
+        <option value="$PROJECT_DIR$/js/js.js" />
+        <option value="$PROJECT_DIR$/css/estilos.css" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1456" />
@@ -116,30 +111,34 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="web_jaz" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web_jaz" type="462c0819:PsiDirectoryNode" />
+              <item name="Explocarnaval 1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Explocarnaval 1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="web_jaz" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web_jaz" type="462c0819:PsiDirectoryNode" />
+              <item name="Explocarnaval 1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Explocarnaval 1" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Explocarnaval 1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Explocarnaval 1" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../web_explocarnaval" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -156,6 +155,16 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Explocarnaval 1/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -166,18 +175,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1561306589397</updated>
-      <workItem from="1561306590712" duration="3172000" />
-      <workItem from="1561310369288" duration="19286000" />
+      <workItem from="1561306590712" duration="15230000" />
+      <workItem from="1561322965170" duration="16735000" />
+      <workItem from="1561399744065" duration="65000" />
+      <workItem from="1561399821516" duration="15465000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22458000" />
+    <option name="totallyTimeSpent" value="47495000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2246596" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2299427" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -190,89 +202,49 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.25302827" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
     </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2246596" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/explocarnaval1.html" />
+    <entry file="file://$PROJECT_DIR$/js/bootstrap.js" />
+    <entry file="file://$PROJECT_DIR$/css/carousel.css" />
+    <entry file="file://$PROJECT_DIR$/Explocarnaval 1/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/js.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/estilos.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="30" column="10" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/explocarnaval1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="198" column="20" selection-start-line="198" selection-start-column="20" selection-end-line="198" selection-end-column="26" />
+        <state relative-caret-position="613">
+          <caret line="271" column="21" lean-forward="true" selection-start-line="271" selection-start-column="21" selection-end-line="271" selection-end-column="21" />
           <folding>
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#button#0;n#ul#0;n#div#0;n#nav#0;n#div#1;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#figure#0;n#div#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#figure#1;n#div#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#figure#2;n#div#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#figure#0;n#div#1;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#figure#1;n#div#1;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#10195#10201#0" expanded="true" />
+            <element signature="e#4497#4747#2" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-          <folding>
-            <element signature="e#335#585#2" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/carousel.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" column="37" lean-forward="true" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="117" selection-start-line="117" selection-end-line="117" />
+        <state relative-caret-position="358">
+          <caret line="44" column="34" lean-forward="true" selection-start-line="55" selection-start-column="176" selection-end-line="55" selection-end-column="181" />
           <folding>
-            <element signature="n#style#0;n#img#0;n#button#0;n#ul#0;n#div#0;n#nav#0;n#header#0;n#html#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#main#0;n#html#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#9280#9286#0" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#ul#0;n#div#0;n#nav#0;n#div#1;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#button#0;n#ul#0;n#div#0;n#nav#0;n#div#1;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>

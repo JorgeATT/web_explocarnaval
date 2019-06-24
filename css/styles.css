@@ -26,13 +26,13 @@
 }
 /*Boton en Carousel de Inicio*/
 .btn-imgCarousel{
-    background-color: rgba(56,187,180);
+    background-color: rgb(56,187,180);
     text-align: center;
     color: white;
 }
 
 .footer-copyright{
-    background-color: rgba(56,187,180);
+    background-color: rgb(56,187,180);
     text-align: center;
     color: white;
 }
