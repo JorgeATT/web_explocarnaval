@@ -15,7 +15,9 @@
 .search {
     font-size: 12px;
 }
+/*posicion del logo*/
 .logo{
+    margin-top: -3px;
     padding-left: 4%;
 }
 
@@ -38,10 +40,11 @@
 }
 .dropdown-menu{
     background: rgba(56,187,180,0.5);
-}
-.dropleft{
+    border-radius: 15px 15px 15px 15px;
+    color: white;
 
 }
+
 
 /*botones de redes sociales*/
 .sticky-container{
@@ -243,7 +246,9 @@ figure {
     .dropdown-menu {
         position: relative;
         float: start;
+
     }
+
 }
 /*Navbar personalizado en responsive**/
 .navbar-toggler {
@@ -253,7 +258,7 @@ figure {
     background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba( 255, 255, 255, 255)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
 }
 
-
+/*Creacion de los menus y sub menus*/
 .dropdown-menu>li
 {	position:relative;
     -webkit-user-select: none; /* Chrome/Safari */
@@ -270,16 +275,14 @@ figure {
     top: 0;
     display:none;
     margin-top: -1px;
-    border-top-left-radius:0;
-    border-bottom-left-radius:0;
-    border-left-color:#fff;
+    border-radius: 15px 15px 15px 15px;
     box-shadow:none;
 }
 .right-caret:after
 {	content:"";
     border-bottom: 4px solid transparent;
     border-top: 4px solid transparent;
-    border-left: 4px solid orange;
+    border-left: 4px solid white;
     display: inline-block;
     height: 0;
     opacity: 0.8;
@@ -291,7 +294,7 @@ figure {
 {	content:"";
     border-bottom: 4px solid transparent;
     border-top: 4px solid transparent;
-    border-right: 4px solid orange;
+    border-right: 4px solid white;
     display: inline-block;
     height: 0;
     opacity: 0.8;
@@ -300,3 +303,19 @@ figure {
     margin-left:5px;
 }
 
+/*video promocional*/
+.videoPromocional{
+    color: white;
+    margin-top: -30px;
+    background: #2C3539;
+}
+.fondoVideo{
+    padding-top: 60px;
+    padding-left: 100px;
+    padding-bottom: 60px;
+}
+.btn-imgVideo{
+    background-color: rgb(56,187,180);
+    text-align: center;
+    color: white;
+}
