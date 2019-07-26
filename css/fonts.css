@@ -1,0 +1,153 @@
+@font-face {
+    font-family: caviarDreams;
+    src: url("fonts/CaviarDreams/CaviarDreams.ttf");
+}
+@font-face {
+    font-family: caviarDreams_Bold;
+    src: url("fonts/CaviarDreams/CaviarDreams_Bold.ttf");
+}
+@font-face {
+    font-family: caviarDreams_BoldItalic;
+    src: url("fonts/CaviarDreams/CaviarDreams_BoldItalic.ttf");
+}
+@font-face {
+    font-family: caviarDreams_Italic;
+    src: url("fonts/CaviarDreams/CaviarDreams_Italic.ttf");
+}
+@font-face {
+    font-family: leagueSpartan;
+    src: url("fonts/league-spartan/LeagueSpartan-Bold.otf");
+}
+@font-face {
+    font-family: quicksand_Bold;
+    src: url("fonts/quicksand/Quicksand_Bold.otf");
+}
+@font-face {
+    font-family: quicksand_Light;
+    src: url("fonts/quicksand/Quicksand_Light.otf");
+}
+@font-face {
+    font-family: quicksand_LightOblique;
+    src: url("fonts/quicksand/Quicksand_Light_Oblique.otf");
+}
+
+.somos{
+    font-family: 'quicksand_Bold';
+    font-size: 30px;
+    padding: 25px 25px 25px 25px ;
+}
+.destino{
+    font-family: ' quicksand_LightOblique';
+    font-size: 20px;
+    padding: 25px 25px 30px 30px ;
+}
+.subFigure {
+    font-family: 'quicksand_Light';
+    font-size: 30px;
+    text-align: center;
+}
+.medio{
+    font-family: 'leagueSpartan';
+    font-size: 40px;
+    text-align: center;
+}
+
+.eje{
+    padding-top: 90px;
+    padding-right: 300px;
+}
+.eje h1{
+    font-family: 'CaviarDreams_Bold', 'Arial Black';
+    font-size: 30px;
+
+}
+.eje p{
+    font-family: 'leagueSpartan';
+    font-size: 18px;
+}
+
+.promo{
+    font-family: 'leagueSpartan';
+    font-size: 40px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.servicios {
+
+    padding-top: 60px;
+}
+.servicios h1{
+    font-family: 'leagueSpartan','Arial';
+    font-size: 40px;
+}
+
+.sobre figcaption{
+    font-family: 'leagueSpartan','Arial';
+    font-size: 25px;
+}
+
+
+/*RESPONSIVE*/
+
+@media screen and (min-width: 601px) {
+    .somos {
+        font-size: 20px;
+    }
+    .destino{
+        font-size: 20px;
+    }
+    .subFigure {
+        font-size: 30px;
+    }
+    .medio{
+        font-size: 30px;
+    }
+    .promo{
+        font-size: 40px;
+    }
+    .eje h1{
+        font-size: 30px;
+    }
+    .eje p{
+        font-size: 20px;
+    }
+    .servicios h1{
+        font-size: 40px;
+    }
+    .sobre figcaption{
+        font-size: 25px;
+    }
+}
+
+/* If the screen size is 600px wide or less, set the font-size of <div> to 30px */
+@media screen and (max-width: 600px) {
+    .somos {
+        font-size: 15px;
+    }
+    .destino{
+        font-size: 15px;
+    }
+    .subFigure {
+        font-size: 25px;
+    }
+    .medio{
+        font-size: 30px;
+    }
+    .promo{
+        font-size: 30px;
+    }
+    .eje h1{
+        font-size: 20px;
+
+    }
+    .eje p{
+        font-size: 18px;
+    }
+    .servicios h1{
+        font-size: 25px;
+    }
+    .sobre figcaption{
+        font-size: 20px;
+    }
+}
