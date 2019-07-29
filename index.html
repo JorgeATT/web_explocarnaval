@@ -1,449 +1,419 @@
+
 <!doctype html>
 <html lang="en">
 <head>
-    <!-- Required meta tags -->
     <meta charset="utf-8">
-    <meta name="viewport"   content="width=device-width, user-scalable=no, initial-scale=1.0, maximun-scale1.0, minimum-scale=1.0">
-
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-    <link href="https://getbootstrap.com/docs/4.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="JV,JT">
+    <meta name="generator" content="CodeJLIONS v1.0.0">
+    <title>EXPLOCARNAVAL Prueba</title>
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" href="./css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <!-- estilos personalizados-->
     <link rel="stylesheet" type="text/css" href="./slick/slick.css">
     <link rel="stylesheet" type="text/css" href="./slick/slick-theme.css">
-    <!-- estilos personalizados-->
     <link rel="stylesheet" href="css/estilos.css">
-    <!--Fonts Personalizados-->
-    <link href="https://fonts.googleapis.com/css?family=Questrial&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="css/fonts.css">
-    <title>EXPLOCARNAVAl prueba</title>
+
 </head>
-    <body>
-    <!--Container-->
-        <div class="col-12">
-                    <!--BOTONES-->
-                    <div class="sticky-container">
-                        <ul class="sticky">
-                            <li>
-                                <a href="https://api.whatsapp.com/send?phone=593978829223=mensaje" target="_blank">
-                                    <img class="zoom" src="img/iconos/botonwp.png" width="60" height="60">
-                                </a>
+<body>
+<!--NAVBAR-->
+<nav class="navbar navbar-expand-md fixed-top nav">
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse"
+            aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarCollapse">
+        <ul class="navbar-nav mr-auto">
+            <li class="nav-item">
+                <a class="nav-link" href="index.html">INICIO</a>
+            </li>
+            <div class="dropdown" style="position:relative">
+                <a href="#" class="nav-link" data-toggle="dropdown">DESTINOS <span class="caret"></span></a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                    <li><a class="dropdown-item" href="#">Ecuatours</a></li>
+                    <li><a class="dropdown-item" href="pagina1.html">Eje cafetero y Cali</a></li>
+                    <li><a class="dropdown-item" href="pagina2.html">México - Taxco - Acapulco</a></li>
+                    <li>
+                        <a class="dropdown-item trigger right-caret">Medio Oriente</a>
+                        <ul class="dropdown-menu sub-menu">
+                            <li><a class="dropdown-item" href="#">INDIA-DUBAI</a></li>
+                            <li><a class="dropdown-item" href="#">TURQUÍA-DUBAI</a></li>
+                            <li><a class="dropdown-item" href="#">JAPÓN-CHINA</a></li>
+                            <li><a class="dropdown-item" href="#">DUBAI- FERIA DE LA CONSTRUCCIÓN</a>
                             </li>
-                            <li>
-                                <a href="https://m.me/explocarnaval" target="_blank">
-                                    <img class="zoom" src="img/iconos/botonmsg.png" width="60" height="60">
-                                </a>
-                            </li>
-                            <li>
-                                <p><a href="https://www.facebook.com/explocarnaval" target="_blank">
-                                    <img class="zoom" src="img/iconos/botonfb.png" width="60" height="60">
-                                </a>
-                            </li>
-                            <li>
-                                <a href="https://instagram.com/explocarnavalec?igshid=z1rjnuckety0" target="_blank">
-                                    <img class="zoom" src="img/iconos/botonins.png" width="60" height="60">
-                                </a>
-                            </li>
+                            <li><a class="dropdown-item" href="#">TURQUÍA-GRECIA-DUBAI</a></li>
+                            <li><a class="dropdown-item" href="#">SORPRESAS DE SUDAFRICA</a></li>
+                            <li><a class="dropdown-item" href="#">TIERRA SANTA</a></li>
                         </ul>
-                    </div>  <!--fin BOTONES-->
+                    </li>
+                    <li><a class="dropdown-item" href="pagina3.html">Galápagos</a></li>
+                    <li><a class="dropdown-item" href="#">Europa Dorada</a></li>
+                    <li>
+                        <a class="dropdown-item trigger right-caret">Cruceros</a>
+                        <ul class="dropdown-menu sub-menu">
+                            <li><a class="dropdown-item" href="#">ANTILLAS CARIE DEL SUR</a></li>
+                            <li><a class="dropdown-item" href="#">PUNTA CANA</a></li>
+                            <li><a class="dropdown-item" href="#">PANAMÁ</a></li>
+                            <li><a class="dropdown-item" href="#">QUINCEAÑERA A LO CUBANO</a></li>
+                            <li><a class="dropdown-item" href="#">PROGRAMA QUINCEAÑERAS</a></li>
+                            <li><a class="dropdown-item" href="#">LUNA DE MIEL</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+            <li class="nav-item">
+                <a class="nav-link" href="#">NAVIDAD Y FIN DE AÑO</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">CONTACTO</a>
+            </li>
+            <button type="button" class="btn search"><img src="img/iconos/buscar.png" style="width:25px;height:25px;"/></button>
+        </ul>
+    </div>
 
-                    <!--header-->
-                    <header class="barra">
-                        <!--row-->
-                        <div class="row ">
-                            <div class="col logo sticky-top">
-                                <img src="img/iconos/logo.png" style="width:200px;height:150px;"/>
-                            </div><!-- fin col-6-->
-
-                            <!-- barra de navegacion-->
-
-                            <div class="col ">
-                                <nav class="navbar navbar-expand-md fixed-top">
-                                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse"
-                                            aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
-                                        <span class="navbar-toggler-icon"></span>
-                                    </button>
-                                    <div class="collapse navbar-collapse" id="navbarCollapse">
-                                        <ul class="navbar-nav mr-auto">
-                                            <li class="nav-item">
-                                                <a class="nav-link" href="index.html">INICIO</a>
-                                            </li>
-                                            <div class="dropdown" style="position:relative">
-                                                <a href="#" class="nav-link" data-toggle="dropdown">DESTINOS <span class="caret"></span></a>
-                                                <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                                    <li><a class="dropdown-item " href="#">Ecuatours</a></li>
-                                                    <li><a class="dropdown-item" href="pagina1.html">Eje cafetero y Cali</a></li>
-                                                    <li><a class="dropdown-item" href="pagina2.html">México - Taxco - Acapulco</a></li>
-                                                    <li>
-                                                        <a class="dropdown-item trigger right-caret">Medio Oriente</a>
-                                                        <ul class="dropdown-menu sub-menu">
-                                                            <li><a class="dropdown-item" href="#">INDIA-DUBAI</a></li>
-                                                            <li><a class="dropdown-item" href="#">TURQUÍA-DUBAI</a></li>
-                                                            <li><a class="dropdown-item" href="#">JAPÓN-CHINA</a></li>
-                                                            <li><a class="dropdown-item" href="#">DUBAI- FERIA DE LA CONSTRUCCIÓN</a>
-                                                            </li>
-                                                            <li><a class="dropdown-item" href="#">TURQUÍA-GRECIA-DUBAI</a></li>
-                                                            <li><a class="dropdown-item" href="#">SORPRESAS DE SUDAFRICA</a></li>
-                                                            <li><a class="dropdown-item" href="#">TIERRA SANTA</a></li>
-                                                        </ul>
-                                                    </li>
-                                                    <li><a class="dropdown-item" href="pagina3.html">Galápagos</a></li>
-                                                    <li><a class="dropdown-item" href="#">Europa Dorada</a></li>
-                                                    <li>
-                                                        <a class="dropdown-item trigger right-caret">Cruceros</a>
-                                                        <ul class="dropdown-menu sub-menu">
-                                                            <li><a class="dropdown-item" href="#">ANTILLAS CARIE DEL SUR</a></li>
-                                                            <li><a class="dropdown-item" href="#">PUNTA CANA</a></li>
-                                                            <li><a class="dropdown-item" href="#">PANAMÁ</a></li>
-                                                            <li><a class="dropdown-item" href="#">QUINCEAÑERA A LO CUBANO</a></li>
-                                                            <li><a class="dropdown-item" href="#">PROGRAMA QUINCEAÑERAS</a></li>
-                                                            <li><a class="dropdown-item" href="#">LUNA DE MIEL</a></li>
-                                                        </ul>
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                            <li class="nav-item">
-                                                <a class="nav-link" href="#">NAVIDAD Y FIN DE AÑO</a>
-                                            </li>
-                                            <button type="button" class="btn search"><img src="img/iconos/buscar.png"
-                                                                                          style="width:25px;height:25px;"/></button>
-                                        </ul>
-
-                                    </div>
-                                </nav> <!-- fin nav-->
-                            </div>
-                        </div>
-                    </header> <!-- fin header-->
-
-
-                    <!-- carrusel pagina principal-->
-                    <div class="bd-example">
-                        <div id="carruselPrincipal" class="my-carousel carousel slide" data-ride="carousel">
-                            <ol class="carousel-indicators">
-                                <li data-target="#carruselPrincipal" data-slide-to="0" class="active"></li>
-                                <li data-target="#carruselPrincipal" data-slide-to="1"></li>
-                                <li data-target="#carruselPrincipal" data-slide-to="2"></li>
-                                <li data-target="#carruselPrincipal" data-slide-to="3"></li>
-                                <li data-target="#carruselPrincipal" data-slide-to="4"></li>
-                            </ol>
-                            <div class="carousel-inner">
-                                <div class="carousel-item active">
-                                    <img src="img/mexico_1.jpg" class="d-block w-100" alt="Ciudad de Mexico"
-                                         style="width:80vw;height: 100vh;">
-                                    <div class="carousel-caption d-none d-md-block">
-                                        <h1>México</h1><br>
-                                        <p><a class="btn btn-lg btn-imgCarousel" href="pagina2.html" role="button">Mas informacion</a></p>
-                                    </div>
-                                </div>
-                                <div class="carousel-item">
-                                    <img src="img/eje_cafetero_cali_3.jpg" class="d-block w-100" alt="Eje cafetero Cali"
-                                         style="width:80vw;height:100vh;">
-                                    <div class="carousel-caption d-none d-md-block">
-                                        <h1>Eje cafetero <br> y Cali</h1><br>
-                                        <p><a class="btn btn-lg btn-imgCarousel" href="pagina1.html" target="_self" role="button">Mas informacion</a>
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class="carousel-item">
-                                    <img src="img/cruceros_5.jpg" class="d-block w-100" alt="..." style="width:80vw;height:100vh;">
-                                    <div class="carousel-caption d-none d-md-block">
-                                        <h1>Cruceros</h1><br>
-                                        <p><a class="btn btn-lg btn-imgCarousel" href="#" role="button">Mas informacion</a></p>
-                                    </div>
-                                </div>
-                                <div class="carousel-item">
-                                    <img src="img/galapagos_7.jpg" class="d-block w-100" alt="..." style="width:80vw;height:100vh;">
-                                    <div class="carousel-caption d-none d-md-block">
-                                        <h1>Galápagos</h1><br>
-                                        <p><a class="btn btn-lg btn-imgCarousel" href="pagina3.html" role="button">Mas informacion</a></p>
-                                    </div>
-                                </div>
-                                <div class="carousel-item">
-                                    <img src="img/europa_9.jpg" class="d-block w-100" alt="..." style="width:80vw;height:100vh;">
-                                    <div class="carousel-caption d-none d-md-block">
-                                        <h1>Europa</h1><br>
-                                        <p><a class="btn btn-lg btn-imgCarousel" href="#" role="button">Mas informacion</a></p>
-                                    </div>
-                                </div>
-                            </div>
-                            <a class="carousel-control-prev" href="#carruselPrincipal" role="button" data-slide="prev">
-                                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                                <span class="sr-only">Previous</span>
-                            </a>
-                            <a class="carousel-control-next" href="#carruselPrincipal" role="button" data-slide="next">
-                                <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                                <span class="sr-only">Next</span>
-                            </a>
-                        </div>
-                    </div> <!--fin carrusel-->
-
-                    <!--texto somos una empresa-->
-                    <br>
-                    <div class="row w-100">
-                        <div class="col-6 text-justify">
-                            <p class="somos">Somos una empresa comprometidos con un servicio
-                                de calidad. Brindando seguridad y asesoramiento a
-                                todos nuestro pasajeros en tramites de visas a
-                                cualquier parte del mundo, emisión de tickets aéreos,
-                                ofreciéndote siempre los mejores tours, destinos y
-                                ofertas para el disfrute de ti y los tuyos.
-                            </p>
-
-                            <!--linea vertical-->
-                            <div class="vl"></div>
-                            <!--fin linea vertical-->
-
-                        </div>
-
-                        <div class="col-6 text-justify">
-                            <br>
-                            <p class="destino">“Nuestro destino nunca es un lugar, sino una nueva
-                                forma de ver las cosas” Explocarnaval ...“Donde
-                                empieza la aventura”
-                            </p>
-                        </div>
-                    </div> <!--Fin Somos una Empresa-->
-        </div>
-
-
-                    <!--Imagenes promocionales-->
-                    <div class="fondo">
-                        <div class="container-fluid">
-                            <div class="row">
-                                <div class="col-md-4">
-                                    <figure class="fgPromo">
-                                    <img class="imagen" src="img/mexico_2.jpg" alt="mexico">
-                                        <figcaption class="fgCPromo">
-                                            <h3>RESERVE AHORA</h3>
-                                            <p>$200</p>
-                                            <p><a href="#" >VER DETALLES</a></p>
-                                        </figcaption>
-                                    </figure>
-                                    <h2 class="subFigure">MÉXICO TAXCO - ACAPULCO</h2>
-                                </div>
-
-                                <div class="col-md-4">
-                                    <figure class="fgPromo">
-                                        <img class="imagen" src="img/eje_cafetero_cali_4.jpg" alt="eje cafetero">
-                                        <figcaption class="fgCPromo">
-                                                <h3>RESERVE AHORA</h3>
-                                                <p>$200</p>
-                                                <p><a href="#" >VER DETALLES</a></p>
-                                        </figcaption>
-                                    </figure>
-                                    <h2 class="subFigure">EJE CAFETERO Y CALI</h2>
-                                </div>
-
-                                <div class="col-md-4">
-                                    <figure class="fgPromo">
-                                        <img class="imagen" src="img/cruceros_6.jpg" alt="cruceros">
-                                        <figcaption class="fgCPromo">
-                                                <h3>RESERVE AHORA</h3>
-                                                <p>$200</p>
-                                                <p><a href="#" >VER DETALLES</a></p>
-                                        </figcaption>
-                                    </figure>
-                                    <h2 class="subFigure">CRUCEROS</h2>
-                                </div>
-                            </div>
-                            <br>
-                            
-                            <div class="row">
-                                <div class="col-md-2">
-
-                                </div>
-                                <div class="col-md-4">
-                                    <figure  class="fgPromo">
-                                        <img class="imagen" src="img/galapagos_8.jpg" alt="galapagos">
-                                        <figcaption class="fgCPromo">
-                                            <h3>RESERVE AHORA</h3>
-                                            <p>$200</p>
-                                            <p><a href="#">VER DETALLES</a></p>
-                                        </figcaption>
-                                    </figure>
-                                    <h2 class="subFigure">GALAPAGOS</h2>
-                                </div>
-
-                                <div class="col-md-4">
-                                    <figure  class="fgPromo">
-                                        <img class="imagen" src="img/europa_10.jpg" alt="europa dorada">
-                                        <figcaption class="fgCPromo">
-                                            <h2>PROMOCION ESPECIAL 5% DE DESCUENTO
-                                                PARA PAGO EN EFECTIVO, TRANSFERENCIA O CHEQUE.</h2>
-                                            <p><a href="#" >Contáctanos</a></p>
-                                        </figcaption>
-                                    </figure>
-                                    <h2 class="subFigure">EUROPA DORADA</h2>
-                                </div>
-                                <div class="col-md-2">
-                                    
-                                </div>
-
-                                <div class="col"></div>
-                            </div>
-                            <br>
-                            
-                        </div>
-                    </div><!--FIn Imagenes promocionales-->
-
-                    <!--MEDIO ORIENTE-->
-                    <div class="row w-100">
-                        <div class="col-md-4 col-xs-12 text-center" style="width:40vh;height:25vh;background: #38bbb4; color: white">
-                            <br><br><br>
-                            <h1 class="medio">MEDIO ORIENTE
-                            </h1>
-                        </div>
-
-                        <div class="col-md-8 col-xs-12 autoplayimg">
-                            <img class="card-img-top" src="img/india_11.jpg" style="width:40vh;height:25vh"/>
-                            <img class="card-img-top" src="img/turquia_12.jpg" style="width:40vh;height:25vh"/>
-                            <img class="card-img-top" src="img/japon_13.jpg" style="width:40vh;height:25vh"/>
-                            <img class="card-img-top" src="img/dubai_14.jpg" style="width:40vh;height:25vh"/>
-                            <img class="card-img-top" src="img/turquia_grecia_15.jpg" style="width:40vh;height:25vh"/>
-                            <img class="card-img-top" src="img/sudafrica_16.jpg" style="width:40vh;height:25vh"/>
-                            <img class="card-img-top" src="img/tierra_santa17.jpg" style="width:40vh;height:25vh"/>
-                        </div>
-                    </div> <!--fin Medio Oriente-->
-
-                    <!--Video-->
-                <div class="videoPromocional">
-                    <div class="row w-100">
-                            <div class="col-md-6">
-                                    <video class="video-fluid fondoVideo" autoplay loop muted controls style="width:100vh;height:55vh">
-                                        <source src="video/eje_cafetero.mp4" type="video/mp4">    
-                                    </video>
-                                   
-                                </div>
-                                <div class="col-md-6 eje">
-                                    <h1 >EJE CAFETERO Y CALI</h1>
-                                    <p> México tiene gran cantidad de destinos que
-                                        vale la pena conocer, desde hermosas playas,
-                                        ciudades coloniales, sitios arqueológicos,
-                                        pueblos pintorescos hasta las grandes urbes
-                                        que nunca duermen.
-                                    </p>
-                                    <p><a class="btn btn-imgVideo" href="pagina1.html" role="button">VER DETALLES</a></p>
-                                </div>
+</nav> <!-- FIN NAVBAR-->
+<header>
+    <!--LOGO-->
+    <div class="logo sticky-top">
+        <img src="img/iconos/logo.png" style="width:200px;height:150px;"/>
+    </div>
+    <!-- FIN LOGO-->
+</header>
+<main role="main">
+    <!--BOTONES-->
+    <div class="sticky-container">
+        <ul class="sticky">
+            <li>
+                <a href="https://api.whatsapp.com/send?phone=593978829223=mensaje" target="_blank">
+                    <img class="zoom" src="img/iconos/botonwp.png" width="60" height="60">
+                </a>
+            </li>
+            <li>
+                <a href="https://m.me/explocarnaval" target="_blank">
+                    <img class="zoom" src="img/iconos/botonmsg.png" width="60" height="60">
+                </a>
+            </li>
+            <li>
+                <p><a href="https://www.facebook.com/explocarnaval" target="_blank">
+                    <img class="zoom" src="img/iconos/botonfb.png" width="60" height="60">
+                </a>
+            </li>
+            <li>
+                <a href="https://instagram.com/explocarnavalec?igshid=z1rjnuckety0" target="_blank">
+                    <img class="zoom" src="img/iconos/botonins.png" width="60" height="60">
+                </a>
+            </li>
+        </ul>
+    </div>  <!--Fin BOTONES-->
+    <!-- carrusel pagina principal-->
+    <div class="bd-example barra">
+        <div id="carruselPrincipal" class="my-carousel carousel slide" data-ride="carousel">
+            <ol class="carousel-indicators">
+                <li data-target="#carruselPrincipal" data-slide-to="0" class="active"></li>
+                <li data-target="#carruselPrincipal" data-slide-to="1"></li>
+                <li data-target="#carruselPrincipal" data-slide-to="2"></li>
+                <li data-target="#carruselPrincipal" data-slide-to="3"></li>
+                <li data-target="#carruselPrincipal" data-slide-to="4"></li>
+            </ol>
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <img src="img/mexico_1.jpg" class="d-block w-100" alt="Ciudad de Mexico"
+                         style="width:80vw;height: 100vh;">
+                    <div class="carousel-caption d-none d-md-block">
+                        <h1>México</h1><br>
+                        <p><a class="btn btn-lg btn-imgCarousel" href="pagina2.html" role="button">Mas informacion</a></p>
                     </div>
                 </div>
-                   <!--Fin Video Promocional-->
-
-                    <!--PROMO TICKETS-->
-                    <div>
-                        <div class="col text-center" style="height:10vh;background: #38bbb4; color: white">
-                            <h1 class="promo"> PROMO TICKETS</h1>
-                        </div>
-                        <div class="row w-100">
-                            <div class="col-12 autoplayimg">
-                                <img class="card-img-top" src="img/promo_1.png" style="width:40vh;height:25vh"/>
-                                <img class="card-img-top" src="img/promo_2.png" style="width:40vh;height:25vh"/>
-                                <img class="card-img-top" src="img/promo_3.png" style="width:40vh;height:25vh"/>
-                            </div>
-                        </div>
+                <div class="carousel-item">
+                    <img src="img/eje_cafetero_cali_3.jpg" class="d-block w-100" alt="Eje cafetero Cali"
+                         style="width:80vw;height:100vh;">
+                    <div class="carousel-caption d-none d-md-block">
+                        <h1>Eje cafetero <br> y Cali</h1><br>
+                        <p><a class="btn btn-lg btn-imgCarousel" href="pagina1.html" target="_self" role="button">Mas informacion</a>
+                        </p>
                     </div>
-
-                    <!-- FIN PROMO TICKETS-->
-
-                    <!--Nuestros Servicios-->
-                    <br>
-                    <div class="row w-100">
-                        <div class="col-4 text-center servicios">
-                            <h1 >Nuestros Servicios</h1>
-                            <!--linea vertical-->
-                            <div class="vl2"></div>
-                            <!--fin linea vertical-->
-
-                        </div>
-
-                        <div class="col-4 text-center sobre">
-                            <br>
-                            <figure>
-                                <div class="col" style="align-content: end">
-                                    <img src="img/europa_10.jpg" alt=""
-                                         style="width:25vh;height:25vh;border-radius: 1000px">
-                                    <figcaption class="text-center">Explocarnaval <br>Eventos DMC</figcaption>
-                                </div>
-                            </figure>
-                            <br><br>
-                        </div>
-                    </div><!--Fin Nuestros Servicios-->
-
-
-                    <!--Sobre Nosotros-->
-                    <div class="sobreNosotros">
-                        <div class="row w-100" style="margin-top: -31px">
-                            <div class="col-6">
-                                <br>
-                                <div class="col" style="color: white">
-                                    <h1>Sobre Nosotros</h1>
-                                </div>
-                                <div class="col">
-                                    <img src="img/iconos/lineaHorizontal.png" alt="..." align="right" style="width:100%;height:0.5vh">
-                                </div>
-                            </div>
-                            <div class="col-6">
-                                <br>
-                                <div class="col" style="color: white">
-                                    <h1>Contáctanos</h1>
-                                </div>
-                                <div class="col" style="padding-top: -50px">
-                                    <img src="img/iconos/lineaHorizontal.png" alt="..." align="right" style="width:100%;height:0.5vh">
-                                </div>
-                            </div>
-                        </div>
-                    </div><!--Fin Sobre Nosotros-->
-
-                    <!--Informacion de contacto-->
-                    <div class="sobreNosotros">
-                        <div class="col row w-100">
-                            <div class="col-6" style="color: white">
-                                <br>
-
-                            </div>
-
-                            <div class="col-5">
-                                <br>
-                                <div class="col">
-                                    <img src="img/iconos/telefono.png" alt="..." align="left" style="width:3vh;height:3vh">
-                                </div>
-                                <div class="col" style="color: white">
-                                    <p>02-6031000</p>
-                                </div>
-
-                                <div class="col">
-                                    <img src="img/iconos/celular.png" alt="..." align="left" style="width:3vh;height:3vh">
-                                </div>
-                                <div class="col" style="color: white">
-                                    <p>099 858 9430 - 097 901 5866</p>
-                                </div>
-
-                                <div class="col">
-                                    <img src="img/iconos/correo.png" alt="..." align="left" style="width:3vh;height:3vh">
-                                </div>
-                                <div class="col" style="color: white">
-                                    <p>gerencia.explocarnaval.com</p>
-                                </div>
-
-                                <div class="col">
-                                    <img src="img/iconos/ubicacion.png" alt="..." align="left" style="width:3vh;height:3vh">
-                                </div>
-                                <div class="col" style="color: white">
-                                    <p>Pedro Collazos E5-18 y Av. Bartolomé
-                                        <br>Alvez - Previa cita: NN.UU e Iñaquito,
-                                        Edif. Planitum G</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div><!--Fin Informacion de contacto-->
-
-                    <!-- FOOTER -->
-                    <footer class="footer footer-copyright mt-auto py-3">
-                        <div class="container-fluid">
-                            <h3>EXPLOCARNAVAL &copy;</h3>
-                        </div>
-                    </footer>
+                </div>
+                <div class="carousel-item">
+                    <img src="img/cruceros_5.jpg" class="d-block w-100" alt="..." style="width:80vw;height:100vh;">
+                    <div class="carousel-caption d-none d-md-block">
+                        <h1>Cruceros</h1><br>
+                        <p><a class="btn btn-lg btn-imgCarousel" href="#" role="button">Mas informacion</a></p>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <img src="img/galapagos_7.jpg" class="d-block w-100" alt="..." style="width:80vw;height:100vh;">
+                    <div class="carousel-caption d-none d-md-block">
+                        <h1>Galápagos</h1><br>
+                        <p><a class="btn btn-lg btn-imgCarousel" href="pagina3.html" role="button">Mas informacion</a></p>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <img src="img/europa_9.jpg" class="d-block w-100" alt="..." style="width:80vw;height:100vh;">
+                    <div class="carousel-caption d-none d-md-block">
+                        <h1>Europa</h1><br>
+                        <p><a class="btn btn-lg btn-imgCarousel" href="#" role="button">Mas informacion</a></p>
+                    </div>
+                </div>
+            </div>
+            <a class="carousel-control-prev" href="#carruselPrincipal" role="button" data-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="carousel-control-next" href="#carruselPrincipal" role="button" data-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+            </a>
         </div>
-    </body>
+    </div><!--FIN CAROUSEL-->
 
+    <!--TEXTO SOMOS UNA EMPRESA-->
+    <div class="row w-100">
+        <div class="col-6 text-justify">
+            <p class="somos">Somos una empresa comprometidos con un servicio
+                de calidad. Brindando seguridad y asesoramiento a
+                todos nuestro pasajeros en tramites de visas a
+                cualquier parte del mundo, emisión de tickets aéreos,
+                ofreciéndote siempre los mejores tours, destinos y
+                ofertas para el disfrute de ti y los tuyos.
+            </p>
+            <!--linea vertical-->
+            <div class="vl"></div>
+            <!--fin linea vertical-->
+        </div>
+        <div class="col-6 text-justify">
+            <p class="destino">“Nuestro destino nunca es un lugar, sino una nueva
+                forma de ver las cosas” Explocarnaval ...“Donde
+                empieza la aventura”
+            </p>
+        </div>
+    </div> <!-- FIN SOMOS UNA EMPRESA-->
+
+    <!--Imagenes promocionales-->
+    <div class="fondo container-fluid w-100">
+        <div class="row">
+            <div class="col-md-4">
+                <figure class="fgPromo">
+                    <img class="imagen" src="img/mexico_2.jpg" alt="mexico">
+                    <figcaption class="fgCPromo">
+                        <h3>RESERVE AHORA</h3>
+                        <p>$200</p>
+                        <p><a href="#" >VER DETALLES</a></p>
+                    </figcaption>
+                </figure>
+                <h2 class="subFigure">MÉXICO TAXCO - ACAPULCO</h2>
+            </div>
+
+            <div class="col-md-4">
+                <figure class="fgPromo">
+                    <img class="imagen" src="img/eje_cafetero_cali_4.jpg" alt="eje cafetero">
+                    <figcaption class="fgCPromo">
+                        <h3>RESERVE AHORA</h3>
+                        <p>$200</p>
+                        <p><a href="#" >VER DETALLES</a></p>
+                    </figcaption>
+                </figure>
+                <h2 class="subFigure">EJE CAFETERO Y CALI</h2>
+            </div>
+            <div class="col-md-4">
+                <figure class="fgPromo">
+                    <img class="imagen" src="img/cruceros_6.jpg" alt="cruceros">
+                    <figcaption class="fgCPromo">
+                        <h3>RESERVE AHORA</h3>
+                        <p>$200</p>
+                        <p><a href="#" >VER DETALLES</a></p>
+                    </figcaption>
+                </figure>
+                <h2 class="subFigure">CRUCEROS</h2>
+            </div>
+        </div>
+        <br>
+        <div class="row">
+            <div class="col-md-2">
+
+            </div>
+            <div class="col-md-4">
+                <figure  class="fgPromo">
+                    <img class="imagen" src="img/galapagos_8.jpg" alt="galapagos">
+                    <figcaption class="fgCPromo">
+                        <h3>RESERVE AHORA</h3>
+                        <p>$200</p>
+                        <p><a href="#">VER DETALLES</a></p>
+                    </figcaption>
+                </figure>
+                <h2 class="subFigure">GALAPAGOS</h2>
+            </div>
+
+            <div class="col-md-4">
+                <figure  class="fgPromo">
+                    <img class="imagen" src="img/europa_10.jpg" alt="europa dorada">
+                    <figcaption class="fgCPromo">
+                        <h2>PROMOCION ESPECIAL 5% DE DESCUENTO
+                            PARA PAGO EN EFECTIVO, TRANSFERENCIA O CHEQUE.</h2>
+                        <p><a href="#" >Contáctanos</a></p>
+                    </figcaption>
+                </figure>
+                <h2 class="subFigure">EUROPA DORADA</h2>
+            </div>
+            <div class="col-md-2">
+
+            </div>
+
+            <div class="col"></div>
+        </div>
+        <br>
+    </div><!--FIN IMAGENES PROMOCIONALES-->
+
+    <!--MEDIO ORIENTE-->
+    <div class="row w-100">
+        <div class="col-md-4 col-lg-4 col-sm-12 medio">
+            <h1>MEDIO ORIENTE</h1>
+        </div>
+        <div class="col-md-8 col-lg-8 autoplayimg">
+            <img class="card-img-top imgMedio" src="img/india_11.jpg"/>
+            <img class="card-img-top imgMedio" src="img/turquia_12.jpg"/>
+            <img class="card-img-top imgMedio" src="img/japon_13.jpg"/>
+            <img class="card-img-top imgMedio" src="img/dubai_14.jpg"/>
+            <img class="card-img-top imgMedio" src="img/turquia_grecia_15.jpg"/>
+            <img class="card-img-top imgMedio" src="img/sudafrica_16.jpg"/>
+            <img class="card-img-top imgMedio" src="img/tierra_santa17.jpg"/>
+        </div>
+    </div> <!--FIN MEDIO ORIENTE-->
+    <!--Video-->
+    <div class="videoPromocional">
+        <div class="row w-100">
+            <div class="col-6 col-md-6 col-lg-6">
+                <video class="video-fluid fondoVideo" autoplay>
+                    <source src="video/eje_cafetero.mp4" type="video/mp4">
+                </video>
+            </div>
+            <div class="col-6 col-md-6 col-lg-6 eje ">
+                <h1 >EJE CAFETERO Y CALI</h1>
+                <p> México tiene gran cantidad de destinos que
+                    vale la pena conocer, desde hermosas playas,
+                    ciudades coloniales, sitios arqueológicos,
+                    pueblos pintorescos hasta las grandes urbes
+                    que nunca duermen.
+                </p>
+                <p><a class="btn btn-imgVideo" href="pagina1.html" role="button">VER DETALLES</a></p>
+            </div>
+        </div>
+    </div>
+    <!--Fin Video Promocional-->
+    <!--PROMO TICKETS-->
+    <div>
+        <div class="col text-center" style="height:10vh;background: #38bbb4; color: white">
+            <h1 class="promo"> PROMO TICKETS</h1>
+        </div>
+        <div class="row w-100">
+            <div class="col-12 autoplayimg">
+                <img class="card-img-top" src="img/promo_1.png" style="width:40vh;height:30vh"/>
+                <img class="card-img-top" src="img/promo_2.png" style="width:40vh;height:30vh"/>
+                <img class="card-img-top" src="img/promo_3.png" style="width:40vh;height:30vh"/>
+            </div>
+        </div>
+    </div>
+
+    <!-- FIN PROMO TICKETS-->
+
+    <!--Nuestros Servicios-->
+    <br>
+    <div class="row w-100">
+        <div class="col-4 text-center servicios">
+            <h1 >Nuestros Servicios</h1>
+            <!--linea vertical-->
+            <div class="vl2"></div>
+            <!--fin linea vertical-->
+
+        </div>
+
+        <div class="col-4 text-center sobre">
+            <br>
+            <figure>
+                <div class="col" style="align-content: end">
+                    <img src="img/europa_10.jpg" alt=""
+                         style="width:25vh;height:25vh;border-radius: 1000px">
+                    <figcaption class="text-center">Explocarnaval <br>Eventos DMC</figcaption>
+                </div>
+            </figure>
+            <br><br>
+        </div>
+    </div><!--Fin Nuestros Servicios-->
+    <!--Sobre Nosotros-->
+    <div class="sobreNosotros">
+        <div class="row w-100" style="margin-top: -31px">
+            <div class="col-6 col-md-6">
+                <br>
+                <div class="col" style="color: white">
+                    <h1>Sobre Nosotros</h1>
+                </div>
+                <div class="col col-md-6">
+                    <img src="img/iconos/lineaHorizontal.png" alt="..." align="right" style="width:100%;height:0.5vh">
+                </div>
+            </div>
+            <div class="col-6 contactanos">
+                <br>
+                <div class="col" style="color: white">
+                    <h1>Contáctanos</h1>
+                </div>
+                <div class="col" style="padding-top: -50px">
+                    <img src="img/iconos/lineaHorizontal.png" alt="..." align="right" style="width:100%;height:0.5vh">
+                </div>
+            </div>
+        </div>
+    </div><!--Fin Sobre Nosotros-->
+
+    <!--Informacion de contacto-->
+    <div class="sobreNosotros">
+        <div class="col row w-100">
+            <div class="col-6" style="color: white">
+                <br>
+
+            </div>
+
+            <div class="col-5">
+                <div class="col">
+                    <img src="img/iconos/telefono.png" alt="..." align="left" style="width:3vh;height:3vh">
+                </div>
+                <div class="col" style="color: white">
+                    <p>02-6031000</p>
+                </div>
+
+                <div class="col">
+                    <img src="img/iconos/celular.png" alt="..." align="left" style="width:3vh;height:3vh">
+                </div>
+                <div class="col" style="color: white">
+                    <p>099 858 9430 - 097 901 5866</p>
+                </div>
+
+                <div class="col">
+                    <img src="img/iconos/correo.png" alt="..." align="left" style="width:3vh;height:3vh">
+                </div>
+                <div class="col" style="color: white">
+                    <p>gerencia.explocarnaval.com</p>
+                </div>
+
+                <div class="col">
+                    <img src="img/iconos/ubicacion.png" alt="..." align="left" style="width:3vh;height:3vh">
+                </div>
+                <div class="col" style="color: white">
+                    <p>Pedro Collazos E5-18 y Av. Bartolomé
+                        <br>Alvez - Previa cita: NN.UU e Iñaquito,
+                        Edif. Planitum G</p>
+                </div>
+            </div>
+        </div>
+    </div><!--Fin Informacion de contacto-->
+
+
+</main>
+
+<footer class="footer footer-copyright mt-auto py-3">
+    <div class="container-fluid">
+        <h3>EXPLOCARNAVAL &copy;</h3>
+    </div>
+</footer>
 
 <!-- Optional JavaScript -->
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->
@@ -452,7 +422,5 @@
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 <script src="js/bootstrap.js" ></script>
 <script src="js/js.js"></script>
-<script src="./slick/slick.min.js" type="text/javascript" charset="utf-8"></script>
-
-
+</body>
 </html>

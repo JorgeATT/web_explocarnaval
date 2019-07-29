@@ -30,32 +30,43 @@
     font-family: quicksand_LightOblique;
     src: url("fonts/quicksand/Quicksand_Light_Oblique.otf");
 }
+.nav li{
+    font-family: 'quicksand_Bold';
+    font-size: 15px;
+}
+.nav a{
+    font-family: 'quicksand_Bold';
+    font-size: 15px;
+}
 
 .somos{
     font-family: 'quicksand_Bold';
     font-size: 30px;
-    padding: 25px 25px 25px 25px !important;
+    padding: 20px 30px 20px 50px !important;
+    /*top right bottom left*/
 }
 .destino{
     font-family: ' quicksand_LightOblique';
     font-size: 20px;
-    padding: 25px 25px 30px 30px !important;
+    padding: 50px 30px 20px 50px !important;
 }
 .subFigure {
     font-family: 'quicksand_Light';
     font-size: 30px;
     text-align: center;
 }
-.medio{
+.medio h1{
     font-family: 'leagueSpartan';
-    font-size: 40px;
+    font-size: 35px;
     text-align: center;
+    padding: 40px 0px 0px 0px !important;
 }
 
 .eje{
-    padding-top: 90px !important;
-    padding-right: 300px !important; 
+    padding-top: 80px !important;
+    padding-right: 120px !important;
 }
+
 .eje h1{
     font-family: 'CaviarDreams_Bold', 'Arial Black';
     font-size: 30px;
@@ -64,6 +75,10 @@
 .eje p{
     font-family: 'leagueSpartan';
     font-size: 18px;
+}
+.eje a{
+    font-family: 'leagueSpartan';
+    font-size: 20px;
 }
 
 .promo{
@@ -87,6 +102,26 @@
     font-size: 25px;
 }
 
+.sobreNosotros{
+    font-family: 'leagueSpartan','Arial';
+    font-size: 25px;
+}
+.sobreNosotros p{
+    font-family: 'leagueSpartan','Arial';
+    font-size: 15px;
+}
+.sobreNosotros h1{
+    font-family: 'leagueSpartan','Arial';
+    font-size: 25px;
+}
+.contactanos{
+    font-family: 'leagueSpartan','Arial';
+}
+.contactanos h1{
+    font-family: 'leagueSpartan','Arial';
+    font-size: 25px;
+}
+
 
 /*RESPONSIVE*/
 
@@ -98,18 +133,22 @@
         font-size: 20px;
     }
     .subFigure {
-        font-size: 30px;
+        font-size: 25px;
     }
-    .medio{
+    .medio h1{
         font-size: 30px;
     }
     .promo{
         font-size: 40px;
     }
+
     .eje h1{
-        font-size: 30px;
+        font-size: 25px;
     }
     .eje p{
+        font-size: 18px;
+    }
+    .eje a{
         font-size: 20px;
     }
     .servicios h1{
@@ -132,17 +171,26 @@
         font-size: 15px;
     }
     .medio{
-        font-size: 30px;
+        width: 100%;
+        height: 15%;
+        padding-top: -30px;
+        padding-right: -20px;
+    }
+    .medio h1{
+        font-size: 20px;
     }
     .promo{
-        font-size: 30px;
-    }
-    .eje h1{
         font-size: 20px;
+    }
 
+    .eje h1{
+        font-size: 15px;
     }
     .eje p{
-        font-size: 18px;
+        font-size: 10px;
+    }
+    .eje a{
+        font-size: 10px;
     }
     .servicios h1{
         font-size: 25px;

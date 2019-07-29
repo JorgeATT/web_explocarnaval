@@ -1,0 +1,20 @@
+/*Separacion del carrusel paginas secundarias*/
+.barra2 {
+    background-size: cover;
+    min-height: 90vh;
+}
+/*Sobre Nosotros pagina 2*/
+.sobreNosotros2{
+    background: #38bbb4;
+    position: relative;
+}
+.sobreNosotros3{
+    background-color: rgb(11, 56, 78) !important;
+    position: relative;
+}
+.fondoVideo2{
+    padding-top: 60px;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-bottom: 60px;
+}
