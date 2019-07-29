@@ -34,12 +34,12 @@
 .somos{
     font-family: 'quicksand_Bold';
     font-size: 30px;
-    padding: 25px 25px 25px 25px ;
+    padding: 25px 25px 25px 25px !important;
 }
 .destino{
     font-family: ' quicksand_LightOblique';
     font-size: 20px;
-    padding: 25px 25px 30px 30px ;
+    padding: 25px 25px 30px 30px !important;
 }
 .subFigure {
     font-family: 'quicksand_Light';
@@ -53,8 +53,8 @@
 }
 
 .eje{
-    padding-top: 90px;
-    padding-right: 300px;
+    padding-top: 90px !important;
+    padding-right: 300px !important; 
 }
 .eje h1{
     font-family: 'CaviarDreams_Bold', 'Arial Black';
@@ -90,7 +90,7 @@
 
 /*RESPONSIVE*/
 
-@media screen and (min-width: 601px) {
+@media screen and (min-width: 40em) {
     .somos {
         font-size: 20px;
     }
@@ -121,15 +121,15 @@
 }
 
 /* If the screen size is 600px wide or less, set the font-size of <div> to 30px */
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 62em) {
     .somos {
-        font-size: 15px;
+        font-size: 8px;
     }
     .destino{
-        font-size: 15px;
+        font-size: 8px;
     }
     .subFigure {
-        font-size: 25px;
+        font-size: 15px;
     }
     .medio{
         font-size: 30px;

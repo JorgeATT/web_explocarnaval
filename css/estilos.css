@@ -339,9 +339,11 @@ figure {
     background: #2C3539;
 }
 .fondoVideo{
-    padding-top: 60px;
-    padding-left: 100px;
-    padding-bottom: 60px;
+    padding-top: 60px !important;
+    padding-left: 100px !important; 
+    padding-bottom: 60px !important;
+    width: 100%;
+    height: auto;
 }
 .btn-imgVideo{
     background-color: rgb(56,187,180);
