@@ -32,13 +32,24 @@
 }
 .nav li{
     font-family: 'quicksand_Bold';
-    font-size: 15px;
+    font-size: 20px;
 }
 .nav a{
     font-family: 'quicksand_Bold';
-    font-size: 15px;
+    font-size: 20px;
 }
 
+/*Titulo en Carousel de Inicio*/
+.carousel-caption > h1{
+    font-family: 'quicksand_Bold';
+    font-size: 7vh;
+}
+.carousel-caption > p{
+    font-family: 'quicksand_Bold';
+    font-size: 3vh;
+}
+
+/*Parrafo somos una empresa*/
 .somos{
     font-family: 'quicksand_Bold';
     font-size: 30px;
@@ -50,6 +61,7 @@
     font-size: 20px;
     padding: 50px 30px 20px 50px !important;
 }
+/*Titulo imagenes promocionales*/
 .subFigure {
     font-family: 'quicksand_Light';
     font-size: 30px;
