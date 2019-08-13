@@ -142,7 +142,7 @@
 }
 /*posicion del carousel*/
 .barra {
-    min-height: 85vh;
+    min-height: 80vh;
 }
 .carousel {
     position: absolute;
