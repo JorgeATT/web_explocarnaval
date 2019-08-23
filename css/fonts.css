@@ -134,6 +134,9 @@
     font-size: 25px;
 }
 
+/**/
+
+
 
 /*RESPONSIVE*/
 
@@ -168,6 +171,17 @@
     }
     .sobre figcaption{
         font-size: 25px;
+    }
+    .fgPromo{
+        font-size: 25px;
+    
+    }
+    .fgCPromo{
+        font-size: 25px;
+    
+    }
+    .sobreNosotros{
+        font-size: 15px;
     }
 }
 
@@ -209,5 +223,16 @@
     }
     .sobre figcaption{
         font-size: 20px;
+    }
+    .fgPromo{
+        font-size: 25px;
+    
+    }
+    .fgCPromo{
+        font-size: 25px;
+    
+    }
+    .sobreNosotros{
+        font-size: 10px;
     }
 }
