@@ -2,16 +2,70 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="abfd111c-f5f1-462a-8a9e-7ce706e3437f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../EXPLOCARNAVAL/web_explocarnaval-master/.idea/WEB_JUMBOTRON.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Explocarnaval 1/.idea/Explocarnaval 1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Explocarnaval 1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Explocarnaval 1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Explocarnaval 1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Explocarnaval 1/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Explocarnaval 1/js/js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Explocarnaval 1/pagina1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Explocarnaval 1/pagina2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Explocarnaval 1/pagina3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Explocarnaval 1/pagina4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Explocarnaval 1/pagina5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assassin’s Creed Unity.url" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cuphead.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXPLOCARNAVAL/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EXPLOCARNAVAL/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXPLOCARNAVAL/ICONOS PNG/MATERIAL WEB-01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXPLOCARNAVAL/ICONOS PNG/MATERIAL WEB-02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXPLOCARNAVAL/ICONOS PNG/MATERIAL WEB-03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXPLOCARNAVAL/ICONOS PNG/MATERIAL WEB-04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXPLOCARNAVAL/ICONOS PNG/MATERIAL WEB-05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXPLOCARNAVAL/ICONOS PNG/MATERIAL WEB-06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXPLOCARNAVAL/ICONOS PNG/MATERIAL WEB-07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXPLOCARNAVAL/ICONOS PNG/MATERIAL WEB-08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXPLOCARNAVAL/ICONOS PNG/MATERIAL WEB-09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXPLOCARNAVAL/ICONOS PNG/MATERIAL WEB-10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXPLOCARNAVAL/css/estilos.css" beforeDir="false" afterPath="$PROJECT_DIR$/../EXPLOCARNAVAL/css/estilos.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXPLOCARNAVAL/explocarnaval.html" beforeDir="false" afterPath="$PROJECT_DIR$/../EXPLOCARNAVAL/explocarnaval.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXPLOCARNAVAL/img/1. Mexico.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXPLOCARNAVAL/img/10 EUROPA.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXPLOCARNAVAL/img/11 INDIA.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXPLOCARNAVAL/img/12 TURQUIA.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXPLOCARNAVAL/img/13 JAPON.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXPLOCARNAVAL/img/14 DUBAI.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXPLOCARNAVAL/img/15 TURQUIA GRECIA.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXPLOCARNAVAL/img/16 SUDAFRICA.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXPLOCARNAVAL/img/17 TIERRA SANTA.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXPLOCARNAVAL/img/2 MEXICO.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXPLOCARNAVAL/img/3 EJE CAFETERO Y CALI.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXPLOCARNAVAL/img/4 EJE CAFETERO Y CALI.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXPLOCARNAVAL/img/5 CRUCEROS.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXPLOCARNAVAL/img/6 CRUCEROS.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXPLOCARNAVAL/img/7 GALAPAGOS.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXPLOCARNAVAL/img/8 GALAPAGOS.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXPLOCARNAVAL/img/9 EUROPA.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/estilos.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/estilos.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/fonts.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/fonts.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/paginas.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/paginas.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pagina1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pagina2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pagina3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pagina4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pagina5.html" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -29,43 +83,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="275" column="34" selection-start-line="275" selection-start-column="34" selection-end-line="275" selection-end-column="34" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#ul#0;n#div#0;n#nav#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#button#0;n#ul#0;n#div#0;n#nav#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#header#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#div#1;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css/estilos.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="274">
-              <caret line="366" column="37" lean-forward="true" selection-start-line="366" selection-start-column="37" selection-end-line="366" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/js.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/fonts.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
+            <state relative-caret-position="-1731">
               <caret line="36" column="7" lean-forward="true" selection-start-line="36" selection-start-column="7" selection-end-line="36" selection-end-column="7" />
             </state>
           </provider>
@@ -87,25 +108,28 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pagina1.html" />
         <option value="$PROJECT_DIR$/css/pagUno.css" />
         <option value="$PROJECT_DIR$/pagina2.html" />
-        <option value="$PROJECT_DIR$/css/paginas.css" />
         <option value="$PROJECT_DIR$/pagina3.html" />
         <option value="$PROJECT_DIR$/pagina4.html" />
         <option value="$PROJECT_DIR$/pagina5.html" />
         <option value="C:/xampp/htdocs/index.php" />
         <option value="$PROJECT_DIR$/pagina.html" />
         <option value="$PROJECT_DIR$/css/fonts.css" />
+        <option value="$PROJECT_DIR$/pagina1.html" />
+        <option value="$PROJECT_DIR$/css/paginas.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/mexico.html" />
+        <option value="$PROJECT_DIR$/cruceros.html" />
         <option value="$PROJECT_DIR$/css/estilos.css" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="2042" />
-    <option name="width" value="697" />
-    <option name="height" value="735" />
+    <option name="x" value="-1288" />
+    <option name="y" value="-8" />
+    <option name="width" value="1296" />
+    <option name="height" value="1000" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -113,6 +137,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -129,13 +154,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Pag_Web_EXPLO/explo_prueba" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -171,17 +196,18 @@
       <workItem from="1564417791125" duration="7117000" />
       <workItem from="1565100523568" duration="3529000" />
       <workItem from="1565703301962" duration="7859000" />
+      <workItem from="1567051985490" duration="3134000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18505000" />
+    <option name="totallyTimeSpent" value="21639000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1358" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-1288" y="-8" width="1296" height="1000" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23676248" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19902913" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -201,6 +227,27 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19902913" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -209,24 +256,10 @@
     <entry file="file://$PROJECT_DIR$/slick/config.rb">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/pagina2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="56" column="73" selection-start-line="56" selection-start-column="73" selection-end-line="56" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pagina3.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="56" column="85" selection-start-line="56" selection-start-column="85" selection-end-line="56" selection-end-column="85" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/paginas.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -251,17 +284,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://C:/xampp/htdocs/web_explocarnaval/index.html" />
+    <entry file="file://$PROJECT_DIR$/js/js.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pagina1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="38" lean-forward="true" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+        <state relative-caret-position="1020">
+          <caret line="60" column="55" selection-start-line="60" selection-start-column="55" selection-end-line="60" selection-end-column="55" />
           <folding>
-            <element signature="n#style#0;n#img#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#ul#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#button#0;n#ul#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -299,58 +334,84 @@
             <element signature="n#style#0;n#div#5;n#div#1;n#div#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#6;n#div#1;n#div#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#7;n#div#1;n#div#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#15402#15408#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pagina2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2958">
+          <caret line="114" column="38" lean-forward="true" selection-start-line="114" selection-start-column="38" selection-end-line="114" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejeCafetero.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2346" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="55" lean-forward="true" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
+        <state relative-caret-position="7024">
+          <caret line="446" column="44" selection-start-line="446" selection-start-column="44" selection-end-line="446" selection-end-column="44" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#ul#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#button#0;n#ul#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#1;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/xampp/htdocs/web_explocarnaval/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/fonts.css">
+    <entry file="file://$PROJECT_DIR$/cruceros.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="36" column="7" lean-forward="true" selection-start-line="36" selection-start-column="7" selection-end-line="36" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/js.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="275" column="34" selection-start-line="275" selection-start-column="34" selection-end-line="275" selection-end-column="34" />
+        <state relative-caret-position="1649">
+          <caret line="136" column="25" selection-start-line="136" selection-start-column="25" selection-end-line="136" selection-end-column="25" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#ul#0;n#div#0;n#nav#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#button#0;n#ul#0;n#div#0;n#nav#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#header#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#1;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#figcaption#0;n#div#0;n#figure#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#figure#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#figcaption#0;n#div#0;n#figure#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#figure#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/estilos.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="366" column="37" lean-forward="true" selection-start-line="366" selection-start-column="37" selection-end-line="366" selection-end-column="37" />
+        <state relative-caret-position="598">
+          <caret line="546" column="17" lean-forward="true" selection-start-line="546" selection-start-column="17" selection-end-line="546" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/paginas.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mexico.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6364">
+          <caret line="416" lean-forward="true" selection-start-line="416" selection-end-line="416" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#2;n#div#1;n#div#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#1;n#div#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#4;n#div#1;n#div#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#5;n#div#1;n#div#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#6;n#div#1;n#div#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#7;n#div#1;n#div#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/fonts.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1731">
+          <caret line="36" column="7" lean-forward="true" selection-start-line="36" selection-start-column="7" selection-end-line="36" selection-end-column="7" />
         </state>
       </provider>
     </entry>
