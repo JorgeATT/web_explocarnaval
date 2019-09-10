@@ -30,23 +30,25 @@
     font-family: quicksand_LightOblique;
     src: url("fonts/quicksand/Quicksand_Light_Oblique.otf");
 }
-.nav li{
-    font-family: 'quicksand_Bold';
-    font-size: 17px;
+body{
+    font-size:80%;
 }
-.nav a{
+
+.nav-link{
     font-family: 'quicksand_Bold';
-    font-size: 17px;
+    font-size: 1.3em;
 }
+
+
 
 /*Titulo en Carousel de Inicio*/
 .carousel-caption > h1{
     font-family: 'quicksand_Bold';
-    font-size: 7vh;
+    font-size: 3em;
 }
 .carousel-caption > p{
     font-family: 'quicksand_Bold';
-    font-size: 3vh;
+    font-size: 1.5em;
 }
 
 /*Parrafo somos una empresa*/
@@ -135,6 +137,7 @@
 }
 
 /**/
+
 
 
 
