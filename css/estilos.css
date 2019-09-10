@@ -540,4 +540,21 @@ figcaption a:hover {
 .navbar-toggler-icon {
     background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba( 255, 255, 255, 255)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
 }
+/*Boton en Carousel de Inicio*/
+.btn-imgCarousel{
+    background-color: rgb(56,187,180);
+    text-align: center;
+    color: white;
+}
+
+/*header cruceros*/
+.header {
+    background-color: rgb(57, 59, 57) !important;
+    min-height: 7.3vh;
+    min-width: 100vh;
+    position: relative;
+    top:0;
+    right: 0;
+    left:0;
+}
 
