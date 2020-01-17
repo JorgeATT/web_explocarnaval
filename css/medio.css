@@ -1,27 +1,29 @@
 /*efectos en Imagenes Promocionales*/
+.titulo-img{
+    font-size: 2em;
+}
 .imagen {
-    width: 100%;
     height: 100%;
 }
 
-.fgPromo {
+.fgMain{
     margin: 0;
     padding: 0;
-    height: 40vh;
+    width: 40em;
     position: relative;
     display: block;
     cursor: pointer;
     overflow: hidden;
 }
 
-.fgPromo:hover .fgCPromo {
+.fgMain:hover .fgCMain {
     -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=100);
     filter: alpha(opacity=100);
     opacity: 1;
     top: 0;
 }
 
-.fgCPromo {
+.fgCMain {
     -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
     filter: alpha(opacity=0);
     opacity: 0;
@@ -42,7 +44,7 @@
     transition-delay: .5ms;
 }
 
-.fgPromo img {
+.fgMain img {
     -webkit-transition: all 1.5s;
     -moz-transition: all 1.5s;
     -o-transition: all 1.5s;
@@ -55,7 +57,7 @@
     transition-delay: .5ms;
 }
 
-.fgPromo:hover img {
+.fgMain :hover img {
     -webkit-transform: scale(1.1);
     -moz-transform: scale(1.1);
     -o-transform: scale(1.1);
@@ -63,18 +65,19 @@
     transform: scale(1.1);
 }
 
-.fgCPromo h3 {
+.fgCMain h3 {
     font-family: 'Open sans';
     text-align: center;
     color: white;
-    padding: 0.6em 1.25em;
     margin-bottom: 0;
+    margin-right: 1em;
+    margin-left: 1em;
     position: relative;
-    margin-top: 0.8em;
-    font-size: 1.9em;
+    margin-top: 1.5em;
+    font-size: 2.5em;
 }
 
-.fgCPromo h2 {
+.fgCMain h2 {
     font-family: 'Open sans';
     text-align: center;
     color: white;
@@ -85,7 +88,7 @@
     font-size: 1.25em;
 }
 
-.fgCPromo p {
+.fgCMain p {
     font-family: 'Open sans';
     text-align: center;
     margin-bottom: 0;
@@ -94,12 +97,12 @@
     left: 100%;
     font-size: 3em;
 }
-.fgCPromo a{
+.fgCMain a{
     font-size: 0.4em;
 }
 
 
-.fgPromo:hover h3,figure:hover p {
+.fgMain:hover h3,figure:hover p {
     left: 0;
 }
 figcaption a {
