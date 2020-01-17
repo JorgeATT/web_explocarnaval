@@ -13,11 +13,73 @@
     <!-- estilos personalizados-->
     <link rel="stylesheet" href="css/estilos.css">
     <link rel="stylesheet" href="css/paginas.css">
+    <link rel="stylesheet" href="css/fonts.css">
     <title>Galápagos</title>
 </head>
 <body>
-        <!--Container-->
-        <div class="container-fluid">
+<!--NAVBAR-->
+<nav class="navbar navbar-expand-md fixed-top nav">
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse"
+            aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarCollapse">
+        <ul class="navbar-nav mr-auto">
+            <li class="nav-item">
+                <a class="nav-link" href="index.html">INICIO</a>
+            </li>
+            <div class="dropdown" style="position:relative">
+                <a href="#" class="nav-link" data-toggle="dropdown">DESTINOS <span class="caret"></span></a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                    <li><a class="dropdown-item" href="#">Ecuatours</a></li>
+                    <li><a class="dropdown-item" href="ejeCafetero.html">Eje cafetero y Cali</a></li>
+                    <li><a class="dropdown-item" href="mexico.html">México - Taxco - Acapulco</a></li>
+                    <li>
+                        <a class="dropdown-item trigger right-caret">Medio Oriente</a>
+                        <ul class="dropdown-menu sub-menu">
+                            <li><a class="dropdown-item" href="medioOriente.html">INDIA-DUBAI</a></li>
+                            <li><a class="dropdown-item" href="medioOriente.html">TURQUÍA-DUBAI</a></li>
+                            <li><a class="dropdown-item" href="medioOriente.html">JAPÓN-CHINA</a></li>
+                            <li><a class="dropdown-item" href="medioOriente.html">DUBAI- FERIA DE LA CONSTRUCCIÓN</a>
+                            </li>
+                            <li><a class="dropdown-item" href="medioOriente.html">TURQUÍA-GRECIA-DUBAI</a></li>
+                            <li><a class="dropdown-item" href="medioOriente.html">SORPRESAS DE SUDAFRICA</a></li>
+                            <li><a class="dropdown-item" href="medioOriente.html">TIERRA SANTA</a></li>
+                        </ul>
+                    </li>
+                    <li><a class="dropdown-item" href="galapagos.html">Galápagos</a></li>
+                    <li><a class="dropdown-item" href="index.html">Europa Dorada</a></li>
+                    <li>
+                        <a class="dropdown-item trigger right-caret">Cruceros</a>
+                        <ul class="dropdown-menu sub-menu">
+                            <li><a class="dropdown-item" href="cruceros.html">ANTILLAS CARIE DEL SUR</a></li>
+                            <li><a class="dropdown-item" href="cruceros.html">PUNTA CANA</a></li>
+                            <li><a class="dropdown-item" href="cruceros.html">PANAMÁ</a></li>
+                            <li><a class="dropdown-item" href="cruceros.html">QUINCEAÑERA A LO CUBANO</a></li>
+                            <li><a class="dropdown-item" href="cruceros.html">PROGRAMA QUINCEAÑERAS</a></li>
+                            <li><a class="dropdown-item" href="cruceros.html">LUNA DE MIEL</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+            <li class="nav-item">
+                <a class="nav-link" href="#">NAVIDAD Y FIN DE AÑO</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">CONTACTO</a>
+            </li>
+        </ul>
+    </div>
+</nav> <!-- FIN NAVBAR-->
+<!--header-->
+<header class="barra2">
+    <!--LOGO-->
+    <div class="logo sticky-top">
+        <img src="img/iconos/logo.png" style="width:200px;height:150px;"/>
+    </div>
+    <!-- FIN LOGO-->
+</header>
+<main role="main">
                         <!--BOTONES-->
                         <div class="sticky-container">
                             <ul class="sticky">
@@ -44,75 +106,7 @@
                             </ul>
                         </div>  <!--Fin BOTONES-->
 
-                        <!--header-->
-                        <header class="barra2">
-                            <!--row-->
-                            <div class="row ">
-                                <div class="col logo sticky-top">
-                                    <img src="img/iconos/logo.png" style="width:200px;height:150px;"/>
-                                </div><!-- fin col-6-->
 
-                                <!-- barra de navegacion-->
-                                <div class="col ">
-                                    <nav class="navbar navbar-expand-md fixed-top nav">
-                                        <button class="navbar-toggler" type="button" data-toggle="collapse"
-                                                data-target="#navbarCollapse"
-                                                aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
-                                            <span class="navbar-toggler-icon"></span>
-                                        </button>
-                                        <div class="collapse navbar-collapse" id="navbarCollapse">
-                                            <ul class="navbar-nav mr-auto">
-                                                <li class="nav-item">
-                                                    <a class="nav-link" href="index.html">INICIO</a>
-                                                </li>
-                                                <div class="dropdown" style="position:relative">
-                                                    <a href="#" class="nav-link" data-toggle="dropdown">DESTINOS <span
-                                                            class="caret"></span></a>
-                                                    <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                                        <li><a class="dropdown-item " href="#">Ecuatours</a></li>
-                                                        <li><a class="dropdown-item" href="pagina1.html">Eje cafetero y Cali</a></li>
-                                                        <li><a class="dropdown-item" href="pagina2.html">México - Taxco - Acapulco</a></li>
-                                                        <li>
-                                                            <a class="dropdown-item trigger right-caret">Medio Oriente</a>
-                                                            <ul class="dropdown-menu sub-menu">
-                                                                <li><a class="dropdown-item" href="#">INDIA-DUBAI</a></li>
-                                                                <li><a class="dropdown-item" href="#">TURQUÍA-DUBAI</a></li>
-                                                                <li><a class="dropdown-item" href="#">JAPÓN-CHINA</a></li>
-                                                                <li><a class="dropdown-item" href="#">DUBAI- FERIA DE LA
-                                                                    CONSTRUCCIÓN</a>
-                                                                </li>
-                                                                <li><a class="dropdown-item" href="#">TURQUÍA-GRECIA-DUBAI</a></li>
-                                                                <li><a class="dropdown-item" href="#">SORPRESAS DE SUDAFRICA</a></li>
-                                                                <li><a class="dropdown-item" href="#">TIERRA SANTA</a></li>
-                                                            </ul>
-                                                        </li>
-                                                        <li><a class="dropdown-item" href="pagina3.html">Galápagos</a></li>
-                                                        <li><a class="dropdown-item" href="#">Europa Dorada</a></li>
-                                                        <li>
-                                                            <a class="dropdown-item trigger right-caret">Cruceros</a>
-                                                            <ul class="dropdown-menu sub-menu">
-                                                                <li><a class="dropdown-item" href="#">ANTILLAS CARIE DEL SUR</a></li>
-                                                                <li><a class="dropdown-item" href="#">PUNTA CANA</a></li>
-                                                                <li><a class="dropdown-item" href="#">PANAMÁ</a></li>
-                                                                <li><a class="dropdown-item" href="#">QUINCEAÑERA A LO CUBANO</a></li>
-                                                                <li><a class="dropdown-item" href="#">PROGRAMA QUINCEAÑERAS</a></li>
-                                                                <li><a class="dropdown-item" href="#">LUNA DE MIEL</a></li>
-                                                            </ul>
-                                                        </li>
-                                                    </ul>
-                                                </div>
-                                                <li class="nav-item">
-                                                    <a class="nav-link" href="#">NAVIDAD Y FIN DE AÑO</a>
-                                                </li>
-                                                <button type="button" class="btn search"><img src="img/iconos/buscar.png"
-                                                                                              style="width:25px;height:25px;"/></button>
-                                            </ul>
-
-                                        </div>
-                                    </nav> <!-- fin nav-->
-                                </div><!--Fin barra de navegacion-->
-                            </div><!--Fin row-->
-                        </header><!--Fin header-->
 
                            <!-- carrusel pagina principal-->
                         <div class="bd-example">
@@ -141,10 +135,9 @@
                             </div>
                         </div> <!--fin carrusel-->
 
-        </div>
+
                         <!--Titulo Principal-->
                         <div class="col text-center" style="height:10vh;background: #38bbb4; color: white">
-                            <br>
                             <h1 size="12">GALÁPAGOS
                             </h1>
                         </div><!--Fin Titulo Principal-->
@@ -291,29 +284,27 @@
                                 </div>
                             </div>
                         </div><!--Fin Dias y Noches-->
+    <!--Contactanos-->
+    <div class="row w-100" style="height:10vh; color: white; margin: 6em 0 0 0 ">
+        <div class="col-4 sobreNosotros2"></div>
+        <div class="sobreNosotros2 col-4">
+            <div class="text-center">
+                <br>
+                <h3>$699</h3>
+                <p> HAB. DOBLE POR PERSONA</p>
+            </div>
+        </div>
+        <div class="sobreNosotros3 col-4 ">
+            <div class="text-center">
+                <br>
+                <a href="https://m.me/explocarnaval" target="_blank"><h1 style="color: white">CONTÁCTANOS</h1></a>
+            </div>
+        </div>
+    </div>
+    <!--Fin Contactanos-->
 
 
 
-                        <!--Contactanos-->
-                        <br><br><br><br><br>
-                        <div class="container-fluid">
-                            <div class="row w-100" style="height:10vh; color: white">
-                                <div class="col-4 sobreNosotros2"></div>
-                                <div class="sobreNosotros2 col-4">
-                                    <div class="text-center">
-                                        <br>
-                                        <h3>$1460</h3>
-                                        <p> HAB. DOBLE POR PERSONA</p>
-                                    </div>
-                                </div>
-                                <div class="sobreNosotros3 col-4 ">
-                                    <div class="text-center">
-                                        <br>
-                                        <a href="https://m.me/explocarnaval" target="_blank"><h1 style="color: white">CONTÁCTANOS</h1></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div><!--Fin Contactanos-->
 
                         <!--Video-->
                         <br>
@@ -414,7 +405,7 @@
                                 <h3>EXPLOCARNAVAL &copy;</h3>
                             </div>
                         </footer>
-        </div>
+</main>
 </body>
 
 

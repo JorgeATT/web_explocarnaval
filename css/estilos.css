@@ -62,19 +62,13 @@
 .search {
     font-size: 12px;
 }
-/*Navbar Pagina Principal*/
-.navbarPri {
+.navbar {
     border-radius: 0px 0px 0px 10px;
     top:0;
     left: 50%;
+    background:#fff;
     width:50%;
 }
-
-/*Navbar Paginas Secundarias*/
-.navbarPag{
-
-}
-
 .dropdown-menu{
     background: rgba(56,187,180,0.5);
     border-radius: 15px 15px 15px 15px;
@@ -283,25 +277,23 @@
 .fgCPromo h3 {
     font-family: 'Open sans';
     text-align: center;
-    font-weight: 400;
     color: white;
-    padding: 10px 20px;
+    padding: 0.6em 1.25em;
     margin-bottom: 0;
     position: relative;
-    margin-top: 27px;
-    font-size: 30px
+    margin-top: 0.8em;
+    font-size: 1.9em;
 }
 
 .fgCPromo h2 {
     font-family: 'Open sans';
     text-align: center;
-    font-weight: 400;
     color: white;
-    padding: 10px 20px;
+    padding: 0.6em 1.25em;
     margin-bottom: 0;
     position: relative;
-    margin-top: 27px;
-    font-size: 20px;
+    margin-top: 1.7em;
+    font-size: 1.25em;
 }
 
 .fgCPromo p {
@@ -311,7 +303,10 @@
     margin-top: 0;
     position: relative;
     left: 100%;
-    font-size: 50px;
+    font-size: 3em;
+}
+.fgCPromo a{
+    font-size: 0.4em;
 }
 
 
@@ -320,9 +315,9 @@
 }
 figcaption a {
     color: #fff;
-    padding: 10px 20px;
+    padding: 0.6em 1.25em;
     text-decoration: none;
-    font-size: 20px;
+    font-size: 1.25em;
     text-transform: uppercase;
 }
 
@@ -465,9 +460,9 @@ figcaption a:hover {
     height: 60vh;
 }
 .fondoVideo{
-    padding-top: 60px !important;
-    padding-left: 100px !important;
-    padding-bottom: 60px !important;
+    padding-top: 3.75em !important;
+    padding-left: 6.25em !important;
+    padding-bottom: 3.75em !important;
     width: 100%;
     height: 60vh;
 }
@@ -486,6 +481,7 @@ figcaption a:hover {
 .footer-copyright{
     background-color: rgb(56,187,180);
     text-align: center;
+    font-size: 1.5em;
     color: white;
 }
 

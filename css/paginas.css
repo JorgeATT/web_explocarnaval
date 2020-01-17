@@ -1,6 +1,5 @@
 /*Separacion del carrusel paginas secundarias*/
 .barra2 {
-    background-size: cover;
     min-height: 90vh;
 }
 /*Sobre Nosotros pagina 2*/
@@ -23,4 +22,26 @@
     color: white;
     margin-top: -30px;
     background: #2C3539;
+}
+/*TITULO PAGINA MEXICO*/
+
+.titulo{
+    margin-top: -5em;
+    background: #38bbb4;
+    color: white;
+}
+
+/*RESPONSIVE*/
+
+@media screen and (min-width: 800px ) {
+    body{
+        font-size: 100%;
+    }
+}
+
+/* If the screen size is 600px wide or less, set the font-size of <div> to 30px */
+@media screen and (min-width: 1200px) {
+    body {
+        font-size: 120%;
+    }
 }
